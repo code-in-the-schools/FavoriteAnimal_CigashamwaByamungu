@@ -10,3 +10,5 @@ elif P1 == 4:
 
 else:
       print( "They have internal ears but not external ones.")
+
+#snake
